@@ -99,7 +99,7 @@ void loop() {
         }
     }
     
-    delay(100);  // Screen update interval
+    delay(1000);  // Screen update interval
 }
 
 void resetTimer() {
